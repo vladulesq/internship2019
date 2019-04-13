@@ -1,4 +1,4 @@
-**Given a user situated in location A, and 4 ATMS such that:**
+    **Given a user situated in location A, and 4 ATMS such that:**
 1. The walking time between starting point and ATMs as well as between each ATMs is presented below:
     
     | From                 | To           | Duration (minutes) |
